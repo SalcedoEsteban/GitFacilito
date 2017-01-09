@@ -81,7 +81,8 @@ header nav a.active {
 	padding: 10px; /*espacio entre cada bloque-caja, el bloque-caja es dado por la propiedad inline-block*/
 }
 
-#portafolio{
+#portafolio
+{
 	background-color: whitesmoke;
 }
 
@@ -125,4 +126,3 @@ section h2 {
 	margin-left: auto;  /* para que el container seleccionado no se esparsa por toda la pagina*/
 	margin-right: auto;
 }
-
